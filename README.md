@@ -64,7 +64,7 @@ VS Code · Git · GitHub · Jupyter Notebook · Google Colab · MySQL · PosgreS
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyankas01/)   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://YOUR-PORTFOLIO-LINK)   
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:priyankasenthil027@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](priyankasenthil027@gmail.com)
 
 ---
 
